@@ -1,4 +1,9 @@
 Genesis-Bootstrap
 =================
 
-Genesis HTML5 Bootstrap 3 child theme
+WordPress Genesis HTML5 Bootstrap 3 child theme
+
+
+
+================
+License: GPLv3
